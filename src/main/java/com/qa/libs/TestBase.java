@@ -4,6 +4,6 @@ public class TestBase
 {
 public void Test()
 {
-	System.out.println("Test Method");
+	System.out.println("Test New Method");
 }
 }
